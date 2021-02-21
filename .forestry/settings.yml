@@ -11,7 +11,7 @@ sections:
   path: _pages
   label: Navigation
   create: documents
-  match: "**/*"
+  match: "*"
 - type: jekyll-posts
   label: Posts
   create: all
