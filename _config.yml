@@ -1,10 +1,9 @@
 # Site
 name: "Memoirs"
 title: "Memoirs"
-description: "Yes I'm afraid we got bored in lockdown and made another blog. Here's our adventures in South West London Lockdown!"
+description: "Yes I'm afraid we got bored in lockdown and made another blog. Here's our adventures in South West London!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -23,9 +22,9 @@ authors:
     web: https://www.linkedin.com/in/sam-skynner/?originalSubdomain=uk
     twitter: https://twitter.com/skynnes
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
+  hope:
+    name: Hope
+    display_name: Hope    
     avatar: 'assets/images/hope.png'
     # gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
