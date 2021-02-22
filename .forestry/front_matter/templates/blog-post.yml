@@ -1,0 +1,25 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Post
+  hidden: true
+  default: post
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: list
+  name: categories
+  label: categories
+  config:
+    use_select: false
+- type: file
+  name: image
+  label: image
