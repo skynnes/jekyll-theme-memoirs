@@ -2,9 +2,9 @@
 
 ---
 
-$brown: #B59F62;
-$teal: #40FFDC;
-$black: #111;
+$brown: #697268;
+$teal: #440D0F;
+$black: #022B3C;
 $primary: $teal;
 $dark:    $black;
 $enable-rounded: false;
@@ -114,9 +114,9 @@ img, img:hover {
 }
 // menu
 .navbar-brand img {
-    max-height:80px;
-    margin-bottom:40px;
-    margin-top:40px;
+    max-height:170px;
+    margin-bottom:20px;
+    margin-top:20px;
 }
 .sidebar {
     position: fixed;
@@ -379,7 +379,7 @@ img, img:hover {
             min-width:250px;
         }
         input[type="submit"] {    
-            color: #222;
+            color: rgb(209, 209, 209);
             padding: 4px 20px;
             margin-left:-5px;
             background:$primary;
