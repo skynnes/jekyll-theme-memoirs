@@ -1,6 +1,9 @@
     name: Jekyl
 
-    on: push
+    on:
+      push:
+        branches:
+          - master
 
     jobs:
       pull-request:
